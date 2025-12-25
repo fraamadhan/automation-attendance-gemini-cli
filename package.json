@@ -1,0 +1,13 @@
+{
+  "name": "absensi-env",
+  "version": "1.0.0",
+  "description": "automation attendace for maganghub integrated with Gemini client",
+  "license": "ISC",
+  "author": "timunwahyu",
+  "type": "commonjs",
+  "main": "absensi.py",
+  "scripts": {
+    "dev": ".\\Scripts\\python.exe server.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
