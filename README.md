@@ -11,10 +11,10 @@ This project was inspired by my friend **Dewa**. Automate your daily internship 
 This automation relies on the Gemini CLI to process your notes and the Python backend to serve them to your browser.
 
 1.  **Install Gemini CLI via NPM:**
-    Open your terminal and run:
+    Open your terminal and run: [gemini cli installation](https://geminicli.com/docs/get-started/installation/)
 
     ```bash
-    npm install -g gemini
+    npm install -g @google/gemini-cli
     ```
 
     _Follow the on-screen instructions after installation to authenticate and configure your API key._
@@ -153,5 +153,5 @@ Before using the automation, ensure your server has the data ready. Type your no
    - Click it to open the modal.
    - Fetch the expanded text from your local Gemini server.
    - Inject the text and sync it with the portal's database.
-<br><br>
-> If you have any questions, feel free to reach out: Discord: @peculiarz or just trial and error with provided code
+     <br><br>
+     > If you have any questions, feel free to reach out: Discord: @peculiarz or just trial and error with provided code
