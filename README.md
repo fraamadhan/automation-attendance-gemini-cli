@@ -153,5 +153,7 @@ Before using the automation, ensure your server has the data ready. Type your no
    - Click it to open the modal.
    - Fetch the expanded text from your local Gemini server.
    - Inject the text and sync it with the portal's database.
-     <br><br>
-     > If you have any questions, feel free to reach out: Discord: @peculiarz or just trial and error with provided code
+
+<br><br>
+
+> If you have any questions, feel free to reach out: Discord: @peculiarz or just trial and error with provided code
